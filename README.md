@@ -1,6 +1,8 @@
 # Introdução  
 
-Aprenda Rust com vídeos acompanhando os passos do [The Rust Book](https://doc.rust-lang.org/stable/book/).  
+Aprenda Rust com vídeos acompanhando os passos do [The Rust Book](https://doc.rust-lang.org/stable/book/).
+
+Nota: Não tenho experiência prévia com programação em Rust e seguirei o livro da forma mais fiel possível.
 
 ## Instale as ferramentas básicas  
 
